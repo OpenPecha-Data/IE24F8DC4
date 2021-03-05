@@ -1,9 +1,10 @@
-id: opecha:P006947
+id: P006947
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8027
   title: མངོན་པ་མཛོད་ཀྱི་འགྲེལ་ཆེན་གྲུབ་བདེའི་དཔྱིད་འཇོ
-  volume:
+  author: ''
+  volumes:
     690bf08c61314c639a4b113b1de3352a:
       image_group_id: I4135
       title: ''
@@ -14,7 +15,6 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 828
-  author: ''
 ebook_metadata:
   title: མངོན་པ་མཛོད་ཀྱི་འགྲེལ་ཆེན་གྲུབ་བདེའི་དཔྱིད་འཇོ
   author: ''
