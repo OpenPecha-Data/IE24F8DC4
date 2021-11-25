@@ -1,5 +1,7 @@
 id: P006947
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W8027
   title: མངོན་པ་མཛོད་ཀྱི་འགྲེལ་ཆེན་གྲུབ་བདེའི་དཔྱིད་འཇོ
@@ -17,10 +19,3 @@ source_metadata:
       volume_number: 2
       total_pages: 828
       base_file: v002.txt
-ebook_metadata:
-  title: མངོན་པ་མཛོད་ཀྱི་འགྲེལ་ཆེན་གྲུབ་བདེའི་དཔྱིད་འཇོ
-  author: ''
-  sku: P006947
-  cover: cover.jpg
-  layers:
-  - pagination
