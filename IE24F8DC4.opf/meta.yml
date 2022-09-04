@@ -1,33 +1,64 @@
 id: IE24F8DC4
+legacy_id: P006947
+ocr_import_info:
+  bdrc_scan_id: W8027
+  source: bdrc
+  ocr_info:
+    timestamp: '2020-03-28T23:58:24'
+    imagesfolder: images
+  batch_id: batch001
+  software_id: vision
+  expected_default_language: bo
+  op_import_options: {}
+  op_import_version: 1.0.0
+default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2020-03-29T00:03:26+00:00'
-last_modified: '2022-06-08T12:49:26.633255+00:00'
-parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+imported: '2022-09-04T03:17:04.087819+00:00'
+last_modified: 2022-09-04 11:17:54.206819
+parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
-  id: bdr:W8027
-  title: མངོན་པ་མཛོད་ཀྱི་འགྲེལ་ཆེན་གྲུབ་བདེའི་དཔྱིད་འཇོ
-  author: ''
+  id: http://purl.bdrc.io/resource/W8027
+  status: http://purl.bdrc.io/admindata/StatusReleased
   access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: true
-  base:
-    '1698':
-      image_group_id: I4135
-      title: ''
+  geo_restriction:
+  - CN
+  reproduction_of: http://purl.bdrc.io/resource/MW8027
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: མངོན་པ་མཛོད་ཀྱི་འགྲེལ་ཆེན་གྲུབ་བདེའི་དཔྱིད་འཇོ།
+  author: ཀརྨ་པ ༠༨་མི་བསྐྱོད་རྡོ་རྗེ།
+statistics:
+  ocr_word_mean_confidence_index: 0.7084713508154086
+  ocr_word_median_confidence_index: 0.7699999809265137
+quality: null
+bases:
+  I4135:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I4135
       total_pages: 634
-      order: 1
-      base_file: 1698.txt
-    42F4:
-      image_group_id: I4136
-      title: ''
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I4135.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.7599999904632568
+      ocr_word_mean_confidence_index: 0.6883694752996395
+    legacy_id: v001
+  I4136:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I4136
       total_pages: 828
-      order: 2
-      base_file: 42F4.txt
-statistics: {}
-quality: {}
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I4136.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.7799999713897705
+      ocr_word_mean_confidence_index: 0.7311987981183045
+    legacy_id: v002
 copyright:
-  status: Unknown
-  notice: ''
-  info_url: null
-license: null
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
